@@ -1,2 +1,2 @@
-# sparrow-im
-Instant messaging integration service
+# sparrow-notification
+messaging notification integration service
